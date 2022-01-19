@@ -1,1 +1,0 @@
-An example app using the govuk design system
